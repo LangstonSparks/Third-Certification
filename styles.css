@@ -1,0 +1,16 @@
+.main-section {
+  margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+#navbar {
+  position: relative;
+  height: auto;
+  width: 100%;
+  border-right: none;
+  border-bottom: 1px solid #ccc;
+ }
+#main-doc {
+  margin-left: 0;
+  width: 100%;
+ }
+}
